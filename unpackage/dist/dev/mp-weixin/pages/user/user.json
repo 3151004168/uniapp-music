@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "search": "/commonts/header/header",
+    "tab-bar": "/commonts/footer/footer"
+  }
+}

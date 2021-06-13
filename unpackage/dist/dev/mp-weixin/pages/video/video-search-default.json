@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "video-search-default": "/pages/video/video-search-default",
+    "search": "/commonts/header/header",
+    "tab-bar": "/commonts/footer/footer"
+  }
+}

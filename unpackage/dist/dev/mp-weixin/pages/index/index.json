@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "tab-bar": "/commonts/footer/footer",
+    "search": "/commonts/header/header"
+  }
+}

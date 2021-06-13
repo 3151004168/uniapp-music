@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "commonts/footer/footer",
+    "pages/video/video",
+    "pages/user/user",
+    "commonts/header/header",
+    "pages/login/login"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTitleText": "uniapp",
+    "navigationStyle": "custom"
+  },
+  "permission": {},
+  "usingComponents": {}
+}
